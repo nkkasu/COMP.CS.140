@@ -15,3 +15,7 @@ After that, degree programme needs to be chosen and possibly orientation of stud
 Then you can go to study structure tab, where you can choose courses as well. This is done by clicking on tree view and clicking on it's elements which opens checkboxes to the righthand side of the screen.
 
  Study structure calculates the overall study points accumulated from chosen courses. Made study plan can be saved by pressing "Tallenna tiedot" -button.
+ 
+![image](https://user-images.githubusercontent.com/100607632/209883002-a1a1672d-5d0e-44c5-afe0-09513e462e84.png)
+
+![image](https://user-images.githubusercontent.com/100607632/209883080-362516be-b0ca-408d-be79-011bd477d3b4.png)
